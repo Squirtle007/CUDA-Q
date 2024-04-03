@@ -1,7 +1,6 @@
 # Running CUDA-Q on Taiwan Computing Clond (TWCC)
 
-Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q)  
-<br>
+Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) and follow the steps below to set up:
 <br>
 
 **Step 1. Sign up [TWCC](https://www.twcc.ai/)**
@@ -55,7 +54,7 @@ cp -r /home/cudaq/ ~/cudaq
 <br>
 <br>
 
-**Step 7. To access additional tutorials in this repository, use the following git clone command:**
+**Step 7. To access additional tutorials in this repository, use the following `git clone` command**
 ```
 git clone https://github.com/Squirtle007/CUDA_Quantum.git
 ```
