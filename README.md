@@ -1,5 +1,6 @@
 # Runing CUDA-Q in TWCC environment
 
+Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q)  
 <br>
 <br>
 
@@ -47,15 +48,17 @@
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/b7fe4abb-8c91-4655-941f-e55a5230c7d7" width="600"><br>
-
 ```
 sudo chown -R `stat . -c %u:%g` /home/cudaq/
 cp -r /home/cudaq/ ~/cudaq
 ```
 
 **Step 7. To access additional tutorials in this repository, use the following git clone command:**
+<br>
+<br>
 ```
 git clone https://github.com/Squirtle007/CUDA_Quantum.git
 ```
-
+<br>
+<br>
 
