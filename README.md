@@ -27,7 +27,7 @@
 **Step 4. Search and select `CUDA Quantum` then specify compute resources and storage, etc**
 <br>
 <br>
-![image](https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/935cc1b2-19d4-4e3e-8cb4-e41d2a40a7d9)
+<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/935cc1b2-19d4-4e3e-8cb4-e41d2a40a7d9" width="800"><br>
 <br>
 <br>
 <br>
@@ -35,7 +35,7 @@
 **Step 5. Click on the container (after initialization) to see more details and `launch` Jupyter Notebook**
 <br>
 <br>
-![image](https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/14aed847-6301-4e7e-bb13-5e309cf107f4)
+<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/14aed847-6301-4e7e-bb13-5e309cf107f4" width="800"><br>
 <br>
 <br>
 <br>
@@ -44,7 +44,7 @@
 **Step 6. Within Jypyter Notebook open a `command window and` run the following commands to access built-in tutorials inside CUDA Quantum etc.**
 <br>
 <br>
-![image](https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/14aed847-6301-4e7e-bb13-5e309cf107f4)
+<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/b7fe4abb-8c91-4655-941f-e55a5230c7d7" width="600"><br>
 <br>
 <br>
 ```
