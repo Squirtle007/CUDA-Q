@@ -1,5 +1,7 @@
 # Runing CUDA-Q in TWCC environment
 
+<br>
+<br>
 
 **Step 1. Sign up [TWCC](https://www.twcc.ai/)**
 <br>
@@ -41,15 +43,19 @@
 <br>
 
 
-**Step 6. Within Jypyter Notebook open a `command window and` run the following commands to access built-in tutorials inside CUDA Quantum etc.**
+**Step 6. Within Jypyter Notebook open a `command window` and run the following commands to access built-in tutorials inside CUDA Quantum**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/b7fe4abb-8c91-4655-941f-e55a5230c7d7" width="600"><br>
-<br>
-<br>
+
 ```
 sudo chown -R `stat . -c %u:%g` /home/cudaq/
 cp -r /home/cudaq/ ~/cudaq
+```
+
+**Step 7. To access additional tutorials in this repository, use the following git clone command:**
+```
+git clone https://github.com/Squirtle007/CUDA_Quantum.git
 ```
 
 
