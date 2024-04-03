@@ -1,4 +1,4 @@
-# Runing CUDA-Q in TWCC environment
+# Running CUDA-Q on Taiwan Computing Clond (TWCC)
 
 Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q)  
 <br>
