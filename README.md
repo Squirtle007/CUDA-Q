@@ -35,7 +35,7 @@ Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q)
 <br>
 <br>
 
-**Step 5. Click on the container (after initialization) to see more details and `launch` Jupyter Notebook**
+**Step 5. Click on the container (after initialization) to see more details and `LAUNCH` Jupyter Notebook**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/14aed847-6301-4e7e-bb13-5e309cf107f4" width="800"><br>
@@ -43,8 +43,7 @@ Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q)
 <br>
 <br>
 
-
-**Step 6. Within Jypyter Notebook open a `command window` and run the following commands to access built-in tutorials inside CUDA Quantum**
+**Step 6. Within Jypyter Notebook open a `Terminal` and run the following commands to access built-in tutorials inside CUDA Quantum**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/b7fe4abb-8c91-4655-941f-e55a5230c7d7" width="600"><br>
@@ -52,10 +51,11 @@ Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q)
 sudo chown -R `stat . -c %u:%g` /home/cudaq/
 cp -r /home/cudaq/ ~/cudaq
 ```
+<br>
+<br>
+<br>
 
 **Step 7. To access additional tutorials in this repository, use the following git clone command:**
-<br>
-<br>
 ```
 git clone https://github.com/Squirtle007/CUDA_Quantum.git
 ```
