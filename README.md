@@ -16,7 +16,6 @@
 <br>
 <br>
 
-
 **Step 3. Select `CREATE` to set up a container**
 <br>
 <br>
@@ -25,7 +24,15 @@
 <br>
 <br>
 
+**Step 4. Search and select `CUDA Quantum` then specify compute resources and storage, etc.**
+<br>
+<br>
+![image](https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/935cc1b2-19d4-4e3e-8cb4-e41d2a40a7d9)
+<br>
+<br>
+<br>
 
+**Step 5. Within 'Jypyter Notebook' open a command window and run the following commands to access built-in tutorials inside CUDA Quantum etc.**
 ```
 sudo chown -R `stat . -c %u:%g` /home/cudaq/
 cp -r /home/cudaq/ ~/cudaq
