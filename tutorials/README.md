@@ -16,7 +16,7 @@
 <br>
 <br>
 
-**Step 2. To access tutorials in this repository, search the this repository with the**
+**Step 2. To access tutorials in this repository, search this repository in the `GitHub` catalog with:**
 <br>
 <br>
 ```
@@ -26,10 +26,28 @@ Squirtle007/CUDA_Quantum
 <br>
 <br>
 
-**Step 2. Make sure to select `Runtime > Change runtime type > T4 GPU` as the backend for acceleration**
+**Step 3. Make sure to select `Runtime > Change runtime type > T4 GPU` as the backend for acceleration**
+<br>
+<br>
+<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/36853b86-8841-4580-9b48-1f0afa283ee9" width="800">
+<br>
+<br>
+<img src="images/colab-change-runtime-type-t4-gpu.png" width="500">
+<br>
 <br>
 <br>
 
+**Step 4. Set up CUDA Quantum properly in the Colab environment using the following commands (at the very beginning)**
+<br>
+<br>
+```
+!wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.0-1_all.deb
+!dpkg -i cuda-keyring_1.0-1_all.deb
+!apt-get update
+!apt-get -y install libcublas-11-8 libcusolver-11-8 cuda-cudart-11-8
+
+%pip install cuda-quantum==0.6.0
+```
 <br>
 <br>
 <br>
