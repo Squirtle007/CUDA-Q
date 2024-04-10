@@ -1,4 +1,4 @@
-# Running CUDA-Q on [Colab](https://colab.research.google.com/) (backuo)
+# Running CUDA-Q on [Colab](https://colab.research.google.com/) (backup)
 
 *Follow the steps below to run cudaq tutorials with free T4 GPU backend
 <br>
