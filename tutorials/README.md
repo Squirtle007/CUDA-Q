@@ -39,7 +39,6 @@ Squirtle007/CUDA_Quantum
 
 **Step 4. Set up CUDA Quantum properly in the Colab environment using the following commands (at the very beginning)**
 <br>
-<br>
 ```
 !wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.0-1_all.deb
 !dpkg -i cuda-keyring_1.0-1_all.deb
