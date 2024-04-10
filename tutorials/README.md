@@ -18,12 +18,12 @@
 
 **Step 2. To access tutorials in this repository, search this repository in the `GitHub` catalog with:**
 <br>
-<br>
 ```
 Squirtle007/CUDA_Quantum
 ```
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/103e2033-db95-4cbc-8f47-b0dc04748c8d" width="800">
+<br>
 <br>
 <br>
 
