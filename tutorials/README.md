@@ -29,7 +29,7 @@ Squirtle007/CUDA_Quantum
 **Step 3. Make sure to select `Runtime > Change runtime type > T4 GPU` as the backend for acceleration**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/36853b86-8841-4580-9b48-1f0afa283ee9" width="800">
+<img src="=https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/18685649-25e9-4a7e-b117-340063b3650f" width="800">
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/40e9d189-3a8d-4061-9f6e-5f9c98f12682" width="500">
