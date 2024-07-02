@@ -1,9 +1,11 @@
 # Running CUDA-Q on Taiwan Computing Clond (TWCC)
 
-Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with the official [GitHub](https://github.com/NVIDIA/cuda-quantum/),
-and follow the steps below to set up:
+**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/)**
 <br>
-
+<br>
+Follow the steps below to set up CUDA-Q on TWCC:
+<br>
+<br>
 **Step 1. Sign up [TWCC](https://www.twcc.ai/)**
 <br>
 <br>
