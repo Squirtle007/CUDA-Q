@@ -27,7 +27,7 @@ Squirtle007/CUDA-Q
 ```
 
 **Then scroll down and click on the Colab tutorials with the desired version (ex. `0.7.1`)**
-<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/dfc5d2ca-9c3f-476d-a70c-090504deb8ac" width="800">
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/3c1a340c-47f9-4af9-a0e6-a895468e41ff" width="800">
 <br>
 <br>
 <br>
@@ -43,7 +43,7 @@ Squirtle007/CUDA-Q
 <br>
 <br>
 
-**Step 4. Set up CUDA Quantum properly in the Colab environment using the following commands (at the very beginning)**
+**Step 4. CUDA-Q can be set up properly in the Colab environment by running the commands at the very beginning (version `0.7.1` as an example)**
 <br>
 ```
 !wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.0-1_all.deb
