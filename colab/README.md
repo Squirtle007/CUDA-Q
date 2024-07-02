@@ -38,20 +38,16 @@ Squirtle007/CUDA-Q
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9d804b43-e56b-489f-a267-395411ed014c" width="800">
 <br>
 <br>
-<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/40e9d189-3a8d-4061-9f6e-5f9c98f12682" width="500">
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/d00f3c60-960b-4ad1-a7d5-fc55d48e4fb4" width="600">
 <br>
 <br>
 <br>
 
-**Step 4. CUDA-Q can be set up properly in the Colab environment by running the commands at the very beginning (version `0.7.1` as an example)**
+**Step 4. Run the commands at the very beginning (version `0.7.1` as an example) to set up CUDA-Q in the Colab environment:**
 <br>
 ```
-!wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.0-1_all.deb
-!dpkg -i cuda-keyring_1.0-1_all.deb
-!apt-get update
-!apt-get -y install libcublas-11-8 libcusolver-11-8 cuda-cudart-11-8
-
-%pip install cuda-quantum==0.6.0
+!apt-get -y install cuda-nvtx-11-8 cuda-libraries-11-8
+%pip install cuda-quantum==0.7.1
 ```
 <br>
 <br>
