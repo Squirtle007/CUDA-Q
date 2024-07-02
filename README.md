@@ -1,4 +1,4 @@
-# CUDA-Q Playground on Colab
+# CUDA-Q Playground
 
 
 This repository is just an entry point to easily set up and familiarize yourself with [**CUDA-Q**](https://developer.nvidia.com/cuda-q).
