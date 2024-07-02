@@ -7,7 +7,7 @@
 *Follow the steps below to run cudaq tutorials with free T4 GPU backend
 <br>
 <br>
-<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/d1cfbe1f-f354-45a7-8757-abb1a48a3395" width="800">
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/972d85f0-32f6-4ccc-9fc4-00b22804b434" width="800">
 <br>
 <br>
 <br>
@@ -20,12 +20,13 @@
 <br>
 <br>
 
-**Step 2. To access tutorials in this repository, search this repository in the `GitHub` catalog with:**
+**Step 2. To access tutorials in this repository, search this repository in the `GitHub` catalog by typing:**
 <br>
 ```
-Squirtle007/CUDA_Quantum
+Squirtle007/CUDA-Q
 ```
-<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/103e2033-db95-4cbc-8f47-b0dc04748c8d" width="800">
+and then click on the Colab tutorials with desired version (ex. `0.7.1`)
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/dfc5d2ca-9c3f-476d-a70c-090504deb8ac" width="800">
 <br>
 <br>
 <br>
