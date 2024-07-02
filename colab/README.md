@@ -1,6 +1,7 @@
 # Running CUDA-Q on [Colab](https://colab.research.google.com/)
 
-**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/)**
+**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/). Running the tutorials in the CUDA-Q container with the tag 0.7.1 is highly recommended. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum) (Docker required).**
+<br>
 <br>
 <br>
 *Follow the steps below to run cudaq tutorials with free T4 GPU backend
