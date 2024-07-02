@@ -27,7 +27,7 @@ Squirtle007/CUDA-Q
 ```
 
 **Then scroll down and click on the Colab tutorials with the desired version (ex. `0.7.1`)**
-<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/3c1a340c-47f9-4af9-a0e6-a895468e41ff" width="800">
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/fc80dd75-ab8f-45f9-88f3-0b1dd6cb6b3e" width="800">
 <br>
 <br>
 <br>
