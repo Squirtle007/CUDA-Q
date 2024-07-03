@@ -32,7 +32,7 @@ Squirtle007/CUDA-Q
 <br>
 <br>
 
-**Step 3. Make sure to select `Runtime > Change runtime type > T4 GPU` as the backend for acceleration**
+**Step 3. Make sure to select `Edit > Notebook settings > T4 GPU` as the backend for acceleration**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9d804b43-e56b-489f-a267-395411ed014c" width="800">
