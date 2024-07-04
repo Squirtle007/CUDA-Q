@@ -28,6 +28,5 @@ NVIDIA Technical Blog:
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="250">
 <br>
 <br>
-<br>
 ## Disclaimer
 **This is not an official NVIDIA product.**
