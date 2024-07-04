@@ -10,24 +10,22 @@ For more advanced tutorials, please refer to the [examples](https://github.com/N
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="800">
 <br>
 <br>
-<br>
 ## CUDA-Q on TWCC
 Taiwan Computing Cloud (TWCC) is a high-performance computing service/portal backed by the National Center for High-Performance Computing (NCHC). The CUDA-Q container is pre-installed in the TWCC infrastructure and can be easily set up through the user-friendly WebUI.
-<br>
 <br>
 <br>
 ## CUDA-Q on Colab
 Colab is a cloud-based Jupyter Notebook environment providing free access to GPUs. This repository includes minimal dependencies to simply install CUDA-Q via PyPI.
 <br>
 <br>
-<br>
 ## Reference
 Publications for academic citations:
-- https://ieeexplore.ieee.org/abstract/document/10247886
-- https://ieeexplore.ieee.org/document/10313722
-<br>
+- [CUDA Quantum: The Platform for Integrated Quantum-Classical Computing](https://ieeexplore.ieee.org/abstract/document/10247886)
+- [cuQuantum SDK: A High-Performance Library for Accelerating Quantum Science](https://ieeexplore.ieee.org/document/10313722)
 <br>
 NVIDIA Technical Blog:
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="500">
+<br>
 <br>
 <br>
 <br>
