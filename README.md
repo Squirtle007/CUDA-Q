@@ -19,16 +19,14 @@ Colab is a cloud-based Jupyter Notebook environment providing free access to GPU
 <br>
 <br>
 ## Reference
-**Publications for academic citations:**
+Publications for academic citations:
 - [CUDA Quantum: The Platform for Integrated Quantum-Classical Computing](https://ieeexplore.ieee.org/abstract/document/10247886)
 - [cuQuantum SDK: A High-Performance Library for Accelerating Quantum Science](https://ieeexplore.ieee.org/document/10313722)
 <br>
-**NVIDIA Technical Blog:**
-<br>
+NVIDIA Technical Blog:
 <br>
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="200">
 <br>
 <br>
 <br>
-## Disclaimer
-This is not an official NVIDIA product.
+*Disclaimer: This is not an official NVIDIA product.
