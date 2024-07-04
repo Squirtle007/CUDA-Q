@@ -25,7 +25,8 @@ Colab is a cloud-based Jupyter Notebook environment providing free access to GPU
 <br>
 **NVIDIA Technical Blog:**
 <br>
-<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="250">
+<br>
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="200">
 <br>
 <br>
 <br>
