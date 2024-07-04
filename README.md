@@ -15,7 +15,7 @@ Taiwan Computing Cloud (TWCC) is a high-performance computing service/portal bac
 <br>
 <br>
 ## CUDA-Q on Colab
-Colab is a cloud-based Jupyter Notebook environment providing free access to GPUs. This repository includes minimal dependencies to simply install CUDA-Q via PyPI.
+Colab is a cloud-based Jupyter Notebook environment providing free access to GPUs. This repository includes minimal dependencies to install CUDA-Q via PyPI simply.
 <br>
 <br>
 ## Reference
@@ -25,9 +25,9 @@ Publications for academic citations:
 <br>
 NVIDIA Technical Blog:
 <br>
-<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="350">
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="250">
 <br>
 <br>
 <br>
-<br>
-**Disclaimer: This is not an official NVIDIA product.**
+## Disclaimer
+**This is not an official NVIDIA product.**
