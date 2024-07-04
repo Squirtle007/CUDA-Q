@@ -9,4 +9,4 @@ Please refer to the official [GitHub](https://github.com/NVIDIA/cuda-quantum/) a
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="800">
 <br>
 <br>
-
+Disclaimer: this is not an official NVIDIA product.
