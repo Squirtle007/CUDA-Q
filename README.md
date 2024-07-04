@@ -4,7 +4,8 @@
 This repository is just an entry point to easily set up and familiarize anyone with [**CUDA-Q**](https://developer.nvidia.com/cuda-q) on either [TWCC](https://github.com/Squirtle007/CUDA-Q/blob/main/README.md#cuda-q-on-twcc) or [Colab](https://github.com/Squirtle007/CUDA-Q/blob/main/README.md#cuda-q-on-colab).
 <br>
 To explore the full capabilities and in-depth information of CUDA-Q, see the [documentation](https://nvidia.github.io/cuda-quantum/latest/index.html).
-For more advanced tutorials, please refer to the [examples](https://github.com/NVIDIA/cuda-quantum/tree/main/docs/sphinx/examples/python) in the NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/):
+<br>
+For more advanced tutorials, please refer to the [examples](https://github.com/NVIDIA/cuda-quantum/tree/main/docs/sphinx/examples/python) in the [**NVIDIA official GitHub**](https://github.com/NVIDIA/cuda-quantum/):
 <br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="800">
