@@ -24,9 +24,10 @@ Publications for academic citations:
 - [cuQuantum SDK: A High-Performance Library for Accelerating Quantum Science](https://ieeexplore.ieee.org/document/10313722)
 <br>
 NVIDIA Technical Blog:
-<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="500">
+<br>
+<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/698a55f6-0c90-4800-bd96-71f65627d53a" width="350">
 <br>
 <br>
 <br>
 <br>
-Disclaimer: This is not an official NVIDIA product.
+**Disclaimer: This is not an official NVIDIA product.**
