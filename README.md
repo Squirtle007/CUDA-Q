@@ -32,4 +32,4 @@ NVIDIA Technical Blog:
 <br>
 *Disclaimer: This is not an official NVIDIA product.
 <br>
-*Reminder: Please refer to [NVIDIA official GitHub](https://github.com/NVIDIA/cuda-quantum/tree/main) to learn more information.
+*Reminder: Please refer to official https://github.com/NVIDIA/cuda-quantum/tree/main to learn more information.
