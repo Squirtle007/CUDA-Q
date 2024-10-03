@@ -7,7 +7,7 @@
 *Follow the steps below to run cudaq tutorials with free T4 GPU backend
 <br>
 <br>
-<img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/972d85f0-32f6-4ccc-9fc4-00b22804b434" width="800">
+<img src="https://github.com/user-attachments/assets/8427fd9c-67ac-44db-ae65-321e914308f0" width="800">
 <br>
 <br>
 <br>
