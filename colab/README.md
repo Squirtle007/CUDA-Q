@@ -21,7 +21,6 @@
 <br>
 
 **Step 2. To access tutorials in this repository, search this repository in the `GitHub` catalog by typing:**
-<br>
 ```
 Squirtle007/CUDA-Q
 ```
