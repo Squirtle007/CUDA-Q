@@ -43,11 +43,17 @@ Squirtle007/CUDA-Q
 <br>
 <br>
 
-**Step 4. Run the commands at the very beginning (version `0.9.0` as an example) to set up CUDA-Q in the Colab environment:**
+**Step 4. Run the commands at the very beginning to set up CUDA-Q in the Colab environment.**
 <br>
+Version `0.8.0` as an example:
 ```
 %pip install cuda-quantum==0.8.0
 ```
 <br>
+<br>
+Starting from v0.9.0, the package has been renamed to **cudaq**: 
+```
+%pip install cudaq==0.9.0
+```
 <br>
 <br>
