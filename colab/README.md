@@ -13,7 +13,6 @@
 <br>
 <br>
 <br>
-
 **Step 2. Run the commands at the very beginning to set up CUDA-Q in the Colab environment.**
 <br>
 <br>
@@ -26,6 +25,7 @@ Starting from v0.9.0, the package has been renamed to **cudaq**:
 ```
 %pip install cudaq==0.9.1
 ```
+<br>
 <br>
 <br>
 Note: Running the tutorials in the CUDA-Q container (download from [NGC](https://catalog.ngc.nvidia.com/)) with the corresponding version `X.X.X` or `latest` is highly recommended. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum).
