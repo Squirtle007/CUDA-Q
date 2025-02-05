@@ -1,10 +1,6 @@
 # Running CUDA-Q on [Colab](https://colab.research.google.com/)
 
-**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/). Running the tutorials in the CUDA-Q container (download from [NGC](https://catalog.ngc.nvidia.com/)) with the corresponding version `X.X.X` or `latest` is highly recommended. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum).**
-<br>
-<br>
-<br>
-*Follow the steps below to run cudaq with free T4 GPU backend
+**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/), then follow the steps below to run cudaq with free NVIDIA T4 GPU backend on Colab:**
 <br>
 <br>
 **Step 1. Make sure to select `Edit > Notebook settings > T4 GPU` as the backend for acceleration**
@@ -32,3 +28,4 @@ Starting from v0.9.0, the package has been renamed to **cudaq**:
 ```
 <br>
 <br>
+Note: Running the tutorials in the CUDA-Q container (download from [NGC](https://catalog.ngc.nvidia.com/)) with the corresponding version `X.X.X` or `latest` is highly recommended. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum).
