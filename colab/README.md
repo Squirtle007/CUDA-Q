@@ -27,5 +27,5 @@ Starting from v0.9.0, the package has been renamed to **cudaq**:
 ```
 <br>
 <br>
-<br>
+
 Note: Running the tutorials in the CUDA-Q container (download from [NGC](https://catalog.ngc.nvidia.com/)) with the corresponding version `X.X.X` or `latest` is highly recommended. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum).
