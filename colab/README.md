@@ -1,6 +1,6 @@
 # Running CUDA-Q on [Colab](https://colab.research.google.com/)
 
-**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/), then follow the steps below to run cudaq with free NVIDIA T4 GPU backend on Colab:**
+**Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA official [GitHub](https://github.com/NVIDIA/cuda-quantum/), then follow the steps below to run cudaq with free NVIDIA T4 GPU on Colab:**
 <br>
 <br>
 **Step 1. Make sure to select `Edit > Notebook settings > T4 GPU` as the backend for acceleration**
@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-**Step 2. Run the commands at the very beginning to set up CUDA-Q in the Colab environment.**
+**Step 2. Install cudaq via pip at the very beginning to set up CUDA-Q in the Colab environment.**
 <br>
 <br>
 Version `0.8.0` as an example:
