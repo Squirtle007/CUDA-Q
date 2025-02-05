@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-**Step 2. Install cudaq via pip at the very beginning to set up CUDA-Q in the Colab environment.**
+**Step 2. Install cudaq via [PyPI](https://pypi.org/project/cudaq/) at the very beginning to set up CUDA-Q in the Colab environment.**
 <br>
 <br>
 Version `0.8.0` as an example:
