@@ -16,14 +16,14 @@
 **Step 2. Install cudaq via [PyPI](https://pypi.org/project/cudaq/) at the very beginning to set up CUDA-Q in the Colab environment.**
 <br>
 <br>
-Version `0.8.0` as an example:
-```
-%pip install cuda-quantum==0.8.0
-```
-  
-Starting from v0.9.0, the package has been renamed to **cudaq**: 
+Version `0.8.0` as an example: 
 ```
 %pip install cudaq==0.9.1
+```
+
+For versions earlier than v0.9.0, use the package name `cuda-quantum`:
+```
+%pip install cuda-quantum==0.8.0
 ```
 <br>
 <br>
