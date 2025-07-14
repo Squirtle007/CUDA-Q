@@ -41,7 +41,7 @@
 **Step 6. Specify compute resources, storage, etc. For example, using 1 GPU, then review/create the container:**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/CUDA_Quantum/assets/b31153fd-f02c-43c4-9fad-9263d39c6d97" width="800"><br>
+<img src="https://github.com/user-attachments/assets/b31153fd-f02c-43c4-9fad-9263d39c6d97" width="800"><br>
 <br>
 <br>
 <br>
