@@ -53,6 +53,8 @@
 <br>
 <br>
 <br>
+<img src="https://github.com/user-attachments/assets/5927dde1-3784-4fde-9644-4ae1efe776af" width="800"><br>
+
 
 **Step 6. Within Jypyter Notebook open a `Terminal` and run the following commands to access built-in tutorials inside CUDA Quantum**
 <br>
