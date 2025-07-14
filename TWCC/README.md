@@ -38,6 +38,14 @@
 <br>
 <br>
 
+**Step 6. Specify compute resources, storage, etc. For example, using 1 GPU:**
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/b31153fd-f02c-43c4-9fad-9263d39c6d97" width="800"><br>
+<br>
+<br>
+<br>
+
 **Step 5. Click on the container (after initialization) to see more details and `LAUNCH` Jupyter Notebook**
 <br>
 <br>
