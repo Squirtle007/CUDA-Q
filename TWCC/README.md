@@ -48,6 +48,7 @@
 
 **Step 5. Click on the container (after initialization) to see more details and `LAUNCH` Jupyter Notebook**
 <br>
+<br>
 <img src="https://github.com/user-attachments/assets/3b313ab3-aac8-45a2-be19-c6158111f5bf" width="800"><br>
 <br>
 <img src="https://github.com/Squirtle007/CUDA_Quantum/assets/66664309/14aed847-6301-4e7e-bb13-5e309cf107f4" width="800"><br>
