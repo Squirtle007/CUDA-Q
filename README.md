@@ -6,9 +6,9 @@ This repository provides an easy entry point to set up and explore [**CUDA-Q**](
 
 (**Disclaimer**: This is not an official NVIDIA product; please refer to the [official CUDA-Q repository](https://github.com/NVIDIA/cuda-quantum/) for the most up-to-date information.)
 
-<br>
-
 ### Choose your preferred platform to begin learning quantum computing with CUDA-Q:
+
+<br>
 
 ## CUDA-Q on TWCC
 Taiwan Computing Cloud (TWCC) is a high-performance computing service backed by the National Center for High-Performance Computing (NCHC). The CUDA-Q container is pre-installed and can be easily configured through the user-friendly web interface.
