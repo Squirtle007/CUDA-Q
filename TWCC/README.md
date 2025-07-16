@@ -1,6 +1,6 @@
 # Running CUDA-Q on Taiwan Computing Cloud (TWCC)
 
-Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA's official [GitHub repository](https://github.com/NVIDIA/cuda-quantum/). We recommend using the CUDA-Q container with tag `0.11.0` for these tutorials. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum) (Docker required).
+Learn more about [CUDA-Q](https://developer.nvidia.com/cuda-q) with NVIDIA's official [GitHub repository](https://github.com/NVIDIA/cuda-quantum/). We recommend using the CUDA-Q container with tag `latest` for these tutorials. Please follow the [instruction guide](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum) (Docker required).
 
 ## Setup Instructions
 
@@ -56,4 +56,4 @@ git clone https://github.com/Squirtle007/CUDA_Quantum.git
 ```
 
 ## Next Steps
-Navigate to the `cudaq` folder and explore the tutorials to get started with quantum computing using CUDA-Q 🚀
+Navigate to the `CUDA-Q/TWCC/latest` folder and explore the tutorials to get started with quantum programming using CUDA-Q 🚀
