@@ -4,7 +4,7 @@ This repository provides an easy entry point to set up and explore [**CUDA-Q**](
 
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="800">
 
-(Disclaimer: This is not an official NVIDIA product; please refer to the official CUDA-Q repository for the most up-to-date and comprehensive information.)
+(**Disclaimer**: This is not an official NVIDIA product; please refer to the [official CUDA-Q repository](https://github.com/NVIDIA/cuda-quantum/) for the most up-to-date information.)
 
 <br>
 
@@ -33,9 +33,3 @@ Google Colab provides a free cloud-based Jupyter Notebook environment with GPU a
 **NVIDIA Technical Blog:**
 - [NVIDIA CUDA-Q Powers Quantum Applications Research](https://developer.nvidia.com/blog/nvidia-cuda-q-powers-quantum-applications-research/)
 - [Transforming Quantum Education with AI Supercomputing and NVIDIA CUDA-Q Academic](https://developer.nvidia.com/blog/transforming-quantum-education-with-ai-supercomputing-and-nvidia-cuda-q-academic/)
-
----
-
-**Disclaimer:** This is not an official NVIDIA product.
-
-**Note:** For the most up-to-date information, please refer to the [official CUDA-Q repository](https://github.com/NVIDIA/cuda-quantum/).
