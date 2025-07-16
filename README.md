@@ -10,12 +10,12 @@ This repository provides an easy entry point to set up and explore [**CUDA-Q**](
 
 <br>
 
-## CUDA-Q on TWCC
+## [CUDA-Q on TWCC](https://github.com/Squirtle007/CUDA-Q/tree/main/TWCC)
 Taiwan Computing Cloud (TWCC) is a high-performance computing service backed by the National Center for High-Performance Computing (NCHC). The CUDA-Q container is pre-installed and can be easily configured through the user-friendly web interface.
 
 <br>
 
-## CUDA-Q on Google Colab
+## [CUDA-Q on Google Colab](https://github.com/Squirtle007/CUDA-Q/tree/main/colab)
 Google Colab provides a free cloud-based Jupyter Notebook environment with GPU access. This repository includes streamlined installation via [PyPI](https://pypi.org/project/cudaq/) with minimal dependencies.
 
 <br>
