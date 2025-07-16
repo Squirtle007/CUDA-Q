@@ -11,8 +11,12 @@ Choose your preferred platform to begin learning quantum computing with CUDA-Q:
 ## CUDA-Q on TWCC
 Taiwan Computing Cloud (TWCC) is a high-performance computing service backed by the National Center for High-Performance Computing (NCHC). The CUDA-Q container is pre-installed and can be easily configured through the user-friendly web interface.
 
+<br>
+
 ## CUDA-Q on Google Colab
 Google Colab provides a free cloud-based Jupyter Notebook environment with GPU access. This repository includes streamlined installation via [PyPI](https://pypi.org/project/cudaq/) with minimal dependencies.
+
+<br>
 
 ## Additional Resources 🔗
 
