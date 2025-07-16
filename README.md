@@ -4,17 +4,15 @@ This repository provides an easy entry point to set up and explore [**CUDA-Q**](
 
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="800">
 
-## Getting Started
-
 Choose your preferred platform to begin learning quantum computing with CUDA-Q:
 
-### CUDA-Q on TWCC
+## CUDA-Q on TWCC
 Taiwan Computing Cloud (TWCC) is a high-performance computing service backed by the National Center for High-Performance Computing (NCHC). The CUDA-Q container is pre-installed and can be easily configured through the user-friendly web interface.
 
-### CUDA-Q on Google Colab
+## CUDA-Q on Google Colab
 Google Colab provides a free cloud-based Jupyter Notebook environment with GPU access. This repository includes streamlined installation via [PyPI](https://pypi.org/project/cuda-quantum/) with minimal dependencies.
 
-## Additional Resources
+## Additional Resources 🔗
 
 **Official Documentation:**
 - [CUDA-Q Documentation](https://nvidia.github.io/cuda-quantum/latest/index.html) - Complete documentation and API reference
