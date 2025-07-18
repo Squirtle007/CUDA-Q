@@ -52,7 +52,7 @@ sudo apt update && sudo apt install -y libgfortran5
 To access additional tutorials from this repository, use:
 
 ```bash
-git clone https://github.com/Squirtle007/CUDA_Q.git
+git clone https://github.com/Squirtle007/CUDA-Q.git
 ```
 
 ## Next Steps
