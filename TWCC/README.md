@@ -58,7 +58,7 @@ cd ~
 git clone https://github.com/Squirtle007/CUDA-Q.git
 # Install dependencies and necessary packages
 sudo apt update && sudo apt install -y libgfortran5
-pip install cudaq-solvers==0.3.0 qutip==5.2.0 rdkit==2025.3.3 pandas==2.3.1 pyqubo==1.5.0 networkx==3.4.2 -q
+pip install cudaq-solvers==0.3.0 qutip==4.7.6 rdkit==2025.3.3 pandas==2.3.1 pyqubo==1.5.0 networkx==3.4.2 -q
 # Copy built-in CUDA-Q tutorials
 sudo chown -R `stat . -c %u:%g` /home/cudaq/
 rm -rf ~/cudaq
