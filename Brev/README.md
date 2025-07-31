@@ -4,7 +4,9 @@ This guide walks you through setting up a containerized CUDA-Q JupyterLab enviro
 
 ## Step 1: Login to Brev
 
-Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your credentials.
+Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your credentials, and click on `Create Launchable`.
+<img width="1506" height="642" alt="image" src="https://github.com/user-attachments/assets/c60cbdce-f1c2-4cc7-8522-cc3daf50db48" />
+
 
 ---
 
@@ -92,4 +94,4 @@ You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
 
 ---
 
-Or, just click on the pre-built [Launchable](https://brev.nvidia.com/launchable/deploy/now?launchableID=env-2zjZhHYSKhrkSP2cidigUMIss9N).
+➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy/now?launchableID=env-2zjZhHYSKhrkSP2cidigUMIss9N).
