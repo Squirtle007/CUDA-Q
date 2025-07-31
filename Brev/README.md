@@ -12,8 +12,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 * Click **“Create Launchable”**
 * Choose **“Container”** mode
-  ![Step 1](<img width="2239" height="971" alt="image" src="https://github.com/user-attachments/assets/25cac2cc-3df2-49b8-a92a-7e97c741ee8e" />
-)
+<img width="2239" height="971" alt="image" src="https://github.com/user-attachments/assets/7c872686-d7ca-47db-9e0d-2622971d0473" />
+
 
 ---
 
@@ -21,7 +21,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 * Choose the **Docker Compose** option
 * Click **“Add a container”**
-  ![Step 2](image.png)
+<img width="2452" height="1268" alt="image" src="https://github.com/user-attachments/assets/086b7a32-16c1-413c-a140-6c3337e5058e" />
+
 
 ---
 
@@ -39,7 +40,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
   8888:8888
   ```
 
-  ![Step 3](image.png)
+<img width="2410" height="1229" alt="image" src="https://github.com/user-attachments/assets/00345f35-4fec-4da7-b08a-65ad32914139" />
+
 
 ---
 
@@ -53,7 +55,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
   -c "jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home/cudaq'"
   ```
 
-  ![Step 4](image.png)
+<img width="2421" height="794" alt="image" src="https://github.com/user-attachments/assets/cf3c75be-96c2-4d31-b7a1-15cf94d365fb" />
+
 
 ---
 
@@ -61,7 +64,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 * When prompted: **Do not install Jupyter** again.
 * Confirm the port `8888` is correctly mapped.
-  ![Step 5](image.png)
+<img width="2429" height="1043" alt="image" src="https://github.com/user-attachments/assets/fa9293f4-8e09-4beb-b868-29383c374edb" />
+
 
 ---
 
@@ -88,4 +92,4 @@ You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
 
 ---
 
-An example [Launchable](https://brev.nvidia.com/launchable/deploy/now?launchableID=env-2zjZhHYSKhrkSP2cidigUMIss9N).
+Or, just click on the pre-built [Launchable](https://brev.nvidia.com/launchable/deploy/now?launchableID=env-2zjZhHYSKhrkSP2cidigUMIss9N).
