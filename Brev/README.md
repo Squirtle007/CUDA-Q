@@ -97,3 +97,11 @@ You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
 ---
 
 ➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy/now?launchableID=env-2zjZhHYSKhrkSP2cidigUMIss9N).
+
+## Frequently Asked Questions (FAQ)
+
+### For running [CUDA-QX](https://developer.nvidia.com/cuda-qx) (version `0.3.0`) in the CUDA-Q container (version `cu12-0.11.0`), please use the following command instead in Step 5:
+
+```bash
+-c "sudo apt update && sudo apt install -y libgfortran5 && pip install cudaq-solvers==0.3.0 cudaq-qec==0.3.0 && jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home'"
+```
