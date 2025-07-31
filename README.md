@@ -4,7 +4,7 @@ This repository provides an easy entry point to set up and explore [**CUDA-Q**](
 
 <img src="https://github.com/Squirtle007/CUDA-Q/assets/66664309/9c2a0adb-da36-4628-b122-26ba07cf49cb" width="800">
 
-(**Disclaimer**: This is not an official NVIDIA product; please refer to the [official CUDA-Q repository](https://github.com/NVIDIA/cuda-quantum/) for the most up-to-date information.)
+(**Disclaimer**: This is not an official NVIDIA product; please refer to the [official CUDA-Q repository](https://github.com/NVIDIA/cuda-quantum/) for the most up-to-date information and [CUDA-Q Academic](https://github.com/NVIDIA/cuda-q-academic) for more comprehensive tutorials.)
 
 ### Choose your preferred platform to begin learning quantum computing with CUDA-Q:
 
