@@ -30,7 +30,7 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 ## Step 4: Specify the Container
 
-* **Paste the CUDA-Q Docker image URL**
+* **Paste the CUDA-Q Docker image URL from [NVIDIA NGC Catalog](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum)**
 
   ```bash
   nvcr.io/nvidia/quantum/cuda-quantum:cu12-0.11.0
@@ -84,11 +84,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 ## ✅ Result
 
-Once the container is launched, access **JupyterLab** via the provided Brev link at:
-
-```
-http://<your-brev-url>:8888
-```
+Once the container is launched, access **JupyterLab** via the `Shareable URL` listed on the Brev page:
+<img width="2334" height="611" alt="image" src="https://github.com/user-attachments/assets/b38fb69d-d247-4e7c-adc1-33be6242cabf" />
 
 You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
 
