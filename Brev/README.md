@@ -1,4 +1,4 @@
-# Launching CUDA-Q JupyterLab on Brev
+# Launching CUDA-Q on Brev
 
 This guide walks you through setting up a containerized CUDA-Q JupyterLab environment using [Brev](https://brev.nvidia.com/).
 
