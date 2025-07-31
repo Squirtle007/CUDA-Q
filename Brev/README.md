@@ -93,7 +93,7 @@ Once the container is launched, access **JupyterLab** via the `Shareable URL` li
 <img width="2334" height="611" alt="image" src="https://github.com/user-attachments/assets/b38fb69d-d247-4e7c-adc1-33be6242cabf" />
 
 You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
-➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy/now?launchableID=env-2zjZhHYSKhrkSP2cidigUMIss9N).
+➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy?launchableID=env-30deAhK1cEYwu3fr8TjDumJsmOc).
 
 ---
 ## CUDA-QX on Brev
