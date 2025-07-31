@@ -12,7 +12,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 * Click **“Create Launchable”**
 * Choose **“Container”** mode
-  ![Step 1](image.png)
+  ![Step 1](<img width="2239" height="971" alt="image" src="https://github.com/user-attachments/assets/25cac2cc-3df2-49b8-a92a-7e97c741ee8e" />
+)
 
 ---
 
