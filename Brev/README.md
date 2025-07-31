@@ -1,4 +1,4 @@
-# 🚀 Launching CUDA-Q JupyterLab on Brev
+# Launching CUDA-Q JupyterLab on Brev
 
 This guide walks you through setting up a containerized CUDA-Q JupyterLab environment using [Brev](https://brev.nvidia.com/).
 
@@ -12,8 +12,7 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 ## Step 2: Create a Launchable in Container Mode
 
-* Click **“Create Launchable”**
-* Choose **“Container”** mode
+Choose `**Container**` mode
 <img width="2239" height="971" alt="image" src="https://github.com/user-attachments/assets/7c872686-d7ca-47db-9e0d-2622971d0473" />
 
 
@@ -21,8 +20,8 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 ## Step 3: Select Docker Compose
 
-* Choose the **Docker Compose** option
-* Click **“Add a container”**
+* Choose the `Docker Compose` option
+* Click `Add a container`
 <img width="2452" height="1268" alt="image" src="https://github.com/user-attachments/assets/086b7a32-16c1-413c-a140-6c3337e5058e" />
 
 
@@ -93,6 +92,7 @@ Once the container is launched, access **JupyterLab** via the `Shareable URL` li
 <img width="2334" height="611" alt="image" src="https://github.com/user-attachments/assets/b38fb69d-d247-4e7c-adc1-33be6242cabf" />
 
 You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
+
 ➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy?launchableID=env-30deAhK1cEYwu3fr8TjDumJsmOc).
 
 ---
