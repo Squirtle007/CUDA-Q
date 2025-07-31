@@ -12,7 +12,7 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 
 ## Step 2: Create a Launchable in Container Mode
 
-Choose `**Container**` mode
+Choose `Container` mode
 <img width="2239" height="971" alt="image" src="https://github.com/user-attachments/assets/7c872686-d7ca-47db-9e0d-2622971d0473" />
 
 
@@ -91,7 +91,7 @@ Choose `**Container**` mode
 Once the container is launched, access **JupyterLab** via the `Shareable URL` listed on the Brev page:
 <img width="2334" height="611" alt="image" src="https://github.com/user-attachments/assets/b38fb69d-d247-4e7c-adc1-33be6242cabf" />
 
-You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
+🚀 You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
 
 ➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy?launchableID=env-30deAhK1cEYwu3fr8TjDumJsmOc).
 
