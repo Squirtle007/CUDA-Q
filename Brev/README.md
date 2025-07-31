@@ -101,5 +101,5 @@ Once the container is launched, access **JupyterLab** via the `Shareable URL` li
 For running [CUDA-QX](https://developer.nvidia.com/cuda-qx) (version `0.3.0`) in the CUDA-Q container (version `cu12-0.11.0`), please use the following command instead in Step 5:
 
 ```bash
--c "sudo apt update && sudo apt install -y libgfortran5 && pip install cudaq-solvers==0.3.0 cudaq-qec==0.3.0 && jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home'"
+-c "sudo apt update && sudo apt install -y libgfortran5 && pip install cudaq-solvers==0.3.0 cudaq-qec==0.3.0 && jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home/cudaq'"
 ```
