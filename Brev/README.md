@@ -54,10 +54,10 @@ Go to [https://brev.nvidia.com](https://brev.nvidia.com) and log in with your cr
 * Add the following command under the `Command` field:
 
   ```bash
-  -c "jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home'"
+  -c "jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home/cudaq'"
   ```
 
-<img width="2418" height="784" alt="image" src="https://github.com/user-attachments/assets/4fc8afd8-6711-4d9a-8b45-c099e98a8556" />
+<img width="2421" height="794" alt="image" src="https://github.com/user-attachments/assets/211d85fc-bf65-4084-886f-aa6b5f6755aa" />
 
 * To clone an existing repository (e.g., from [CUDA-Q Academic](https://github.com/NVIDIA/cuda-q-academic/tree/main)), use the extended command below:
 
