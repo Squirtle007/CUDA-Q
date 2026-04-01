@@ -32,7 +32,7 @@ Choose `Container` mode
 * **Paste the CUDA-Q Docker image URL from [NVIDIA NGC Catalog](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum)**
 
   ```bash
-  nvcr.io/nvidia/quantum/cuda-quantum:cu12-0.11.0
+  nvcr.io/nvidia/quantum/cuda-quantum:cu13-0.14.0
   ```
 
 * **Set the port mapping**
@@ -42,7 +42,7 @@ Choose `Container` mode
   ```
 
 <img width="2410" height="1229" alt="image" src="https://github.com/user-attachments/assets/00345f35-4fec-4da7-b08a-65ad32914139" />
-
+(Note that the image tag shown above does not reflect the latest version, please follow the [NVIDIA NGC Catalog](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/quantum/containers/cuda-quantum))
 
 ---
 
@@ -72,7 +72,6 @@ Choose `Container` mode
 * Confirm the port `8888` is correctly mapped.
 <img width="2429" height="1043" alt="image" src="https://github.com/user-attachments/assets/fa9293f4-8e09-4beb-b868-29383c374edb" />
 
-
 ---
 
 ## Step 7: Final Setup
@@ -93,13 +92,4 @@ Once the container is launched, access **JupyterLab** via the `Shareable URL` li
 
 🚀 You're all set to start your CUDA-Q journey with **CUDA-Q** on Brev!
 
-➡️ Here is a pre-built [Launchable](https://brev.nvidia.com/launchable/deploy?launchableID=env-30deAhK1cEYwu3fr8TjDumJsmOc).
-
----
-## CUDA-QX on Brev
-
-For running [CUDA-QX](https://developer.nvidia.com/cuda-qx) (version `0.3.0`) in the CUDA-Q container (version `cu12-0.11.0`), please use the following command instead in Step 5:
-
-```bash
--c "sudo apt update && sudo apt install -y libgfortran5 && pip install cudaq-solvers==0.3.0 cudaq-qec==0.3.0 && jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token='' --allow-root --NotebookApp.allow_origin='*' --notebook-dir='/home/cudaq'"
-```
+➡️ Here is a pre-built [**CUDA-Q Launchable**](https://brev.nvidia.com/launchable/deploy?launchableID=env-3Bl3hq4pLsC1Smz7FIto9ruTwHJ).
